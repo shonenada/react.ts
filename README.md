@@ -1,3 +1,3 @@
-# Recat.ts
+# React.ts
 
 Typescript + React + Webpack
